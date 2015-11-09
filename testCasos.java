@@ -1,10 +1,13 @@
-//Christopher Chiroy
-//Boris Cifuentes
-
-
-//Algoritmos y estructura de datos
-//Hoja de trabajo 10
-
+//@===================================================
+//@Universidad del Valle de Guatemala
+//@Algoritmos y Estructura de Datos
+//@Sección: 10
+//@laboratorio10
+//@
+//@08/11/2015
+//@Christopher Antonio Chiroy Miranda. Carné: 14411
+//@Boris Ramiro Cifuentes de Leon. Carné: 14411
+//@================================================== 
 
 import static org.junit.Assert.*;
 
